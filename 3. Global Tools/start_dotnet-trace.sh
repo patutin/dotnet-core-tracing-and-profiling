@@ -1,0 +1,1 @@
+dotnet-trace collect -p $(pidof dotnet)

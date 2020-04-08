@@ -1,0 +1,1 @@
+dotnet-counters monitor -p $(pidof dotnet)

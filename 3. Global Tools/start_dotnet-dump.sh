@@ -1,0 +1,1 @@
+dotnet-dump collect -p $(pidof dotnet)

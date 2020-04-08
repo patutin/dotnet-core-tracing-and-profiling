@@ -1,0 +1,1 @@
+docker run --rm -it --cap-add=CAP_SYS_ADMIN --security-opt seccomp=unconfined -p 5100:80/tcp diagnosticscenariosperfcollect:latest
